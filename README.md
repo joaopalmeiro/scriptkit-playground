@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [Script Kit]:
+- Script Kit:
   - [Website](https://scriptkit.app/).
   - [Repo](https://github.com/johnlindquist/kit).
   - It works on [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) ([source](https://github.com/johnlindquist/kit/discussions/13)).
