@@ -5,7 +5,7 @@ const backupFolder = 'backups';
 let username = await question('GitHub username: ').catch((e) => e);
 
 const query = new URLSearchParams({
-  per_page: 1,
+  per_page: 100,
 });
 
 let headers = {};
