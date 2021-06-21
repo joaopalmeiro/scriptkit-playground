@@ -28,6 +28,8 @@
   - [String.raw()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/raw). This is similar to the `r` prefix in Python. Boilerplate: `` String.raw`templateString` ``.
 - [Raycast](https://raycast.com/):
   - [Zoom extension](https://raycast.com/extensions/zoom/).
-  - [Script Commands](https://github.com/raycast/script-commands).
+  - [Script Commands](https://github.com/raycast/script-commands):
+    - [Available commands](https://github.com/raycast/script-commands/tree/master/commands).
+    - [Output modes](https://github.com/raycast/script-commands/blob/master/documentation/OUTPUTMODES.md).
   - [Shortcuts](https://support.apple.com/en-us/HT201236):
     - Open: Option-Space bar
