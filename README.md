@@ -26,3 +26,8 @@
   - [dark-mode](https://github.com/sindresorhus/dark-mode) CLI.
 - JavaScript:
   - [String.raw()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/raw). This is similar to the `r` prefix in Python. Boilerplate: `` String.raw`templateString` ``.
+- [Raycast](https://raycast.com/):
+  - [Zoom extension](https://raycast.com/extensions/zoom/).
+  - [Script Commands](https://github.com/raycast/script-commands).
+  - [Shortcuts](https://support.apple.com/en-us/HT201236):
+    - Open: Option-Space bar
