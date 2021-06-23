@@ -33,3 +33,4 @@
     - [Output modes](https://github.com/raycast/script-commands/blob/master/documentation/OUTPUTMODES.md).
   - [Shortcuts](https://support.apple.com/en-us/HT201236):
     - Open: Option-Space bar
+- [ShellCheck](https://github.com/koalaman/shellcheck) (for [VS Code](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)): a linter for shell scripts.
