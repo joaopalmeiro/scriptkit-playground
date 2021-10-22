@@ -3,6 +3,7 @@
 # More info:
 # - https://github.com/raycast/script-commands
 # - https://github.com/raycast/script-commands/blob/master/documentation/OUTPUTMODES.md
+# - https://github.com/raycast/script-commands/tree/master/commands/web-searches
 
 # Required parameters:
 # @raycast.schemaVersion 1
