@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# More info: https://github.com/raycast/script-commands
+# More info:
+# - https://github.com/raycast/script-commands
+# - https://github.com/raycast/script-commands/blob/master/documentation/OUTPUTMODES.md
 
 # Required parameters:
 # @raycast.schemaVersion 1
